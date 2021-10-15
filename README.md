@@ -4,6 +4,7 @@ This is a daily planner app designed to help your employee's plan events and sta
 
 What the new site looks like
 
+![plannergif](https://user-images.githubusercontent.com/85590236/137415441-718aa39e-3b89-4bba-b3b8-a6e8a82eaea2.gif)
 
 
 ## Contributing
