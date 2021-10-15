@@ -6,6 +6,8 @@ What the new site looks like
 
 ![plannergif](https://user-images.githubusercontent.com/85590236/137415441-718aa39e-3b89-4bba-b3b8-a6e8a82eaea2.gif)
 
+![plannergif2](https://user-images.githubusercontent.com/85590236/137415676-97711296-6955-46ee-843d-12f8eac1867f.gif)
+
 
 ## Contributing
 Alexander J. Davis
